@@ -2,4 +2,6 @@
     <string name="app_name">Test App</string>
 
     <string name="employee_name">Employee: %1$s</string>
+
+    <string name="infoActivity_confirmation">Press Back once again to exit the app</string>
 </resources>
