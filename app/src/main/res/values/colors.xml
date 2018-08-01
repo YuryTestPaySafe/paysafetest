@@ -3,4 +3,12 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="colorInfo_bg">#808080</color>
+    <color name="colorItem_border">#0000FF</color>
+
+    <color name="colorCustomerName">#FFAAAA</color>
+    <color name="colorPersonPhone">#0FFFFF</color>
+    <color name="colorEmployeeName">#FF00FF</color>
+    <color name="colorEmployeeEmail">#FFFF00</color>
 </resources>
