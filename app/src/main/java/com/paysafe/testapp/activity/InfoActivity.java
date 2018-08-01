@@ -1,4 +1,4 @@
-package com.paysafe.test.activity;
+package com.paysafe.testapp.activity;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
@@ -10,12 +10,12 @@ import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.Toast;
 
-import com.paysafe.test.R;
-import com.paysafe.test.adapter.PersonAdapter;
-import com.paysafe.test.model.Customer;
-import com.paysafe.test.model.Employee;
-import com.paysafe.test.model.Person;
-import com.paysafe.test.network.ApiCaller;
+import com.paysafe.testapp.R;
+import com.paysafe.testapp.adapter.PersonAdapter;
+import com.paysafe.testapp.model.Customer;
+import com.paysafe.testapp.model.Employee;
+import com.paysafe.testapp.model.Person;
+import com.paysafe.testapp.network.ApiCaller;
 
 import java.util.ArrayList;
 import java.util.Arrays;

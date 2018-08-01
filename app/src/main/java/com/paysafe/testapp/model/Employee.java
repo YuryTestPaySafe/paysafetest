@@ -1,4 +1,4 @@
-package com.paysafe.test.model;
+package com.paysafe.testapp.model;
 
 /**
  * @author Abhishek Vadnerkar

@@ -1,4 +1,4 @@
-package com.paysafe.test.adapter;
+package com.paysafe.testapp.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,10 +7,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.paysafe.test.R;
-import com.paysafe.test.model.Customer;
-import com.paysafe.test.model.Employee;
-import com.paysafe.test.model.Person;
+import com.paysafe.testapp.R;
+import com.paysafe.testapp.model.Customer;
+import com.paysafe.testapp.model.Employee;
+import com.paysafe.testapp.model.Person;
 
 import java.util.List;
 

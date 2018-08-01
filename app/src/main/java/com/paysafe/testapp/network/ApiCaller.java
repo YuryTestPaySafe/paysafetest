@@ -1,7 +1,7 @@
-package com.paysafe.test.network;
+package com.paysafe.testapp.network;
 
-import com.paysafe.test.model.Customer;
-import com.paysafe.test.model.Employee;
+import com.paysafe.testapp.model.Customer;
+import com.paysafe.testapp.model.Employee;
 
 import android.support.annotation.Nullable;
 
