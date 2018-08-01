@@ -4,4 +4,8 @@
     <string name="employee_name">Employee: %1$s</string>
 
     <string name="infoActivity_confirmation">Press Back once again to exit the app</string>
+    <string name="infoActivity_loading">Please wait while data are retrieved...</string>
+    <string name="infoActivity_alertMsg">Unfortunately  we were not able to retrieve requested data. Please try again later.</string>
+    <string name="infoActivity_alertTitle">Alert</string>
+    <string name="infoActivity_ok">Ok</string>
 </resources>
